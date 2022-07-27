@@ -40,7 +40,9 @@ Last Updated  by cis272
 
 17. Spawn camping is not allowed.
 
-18. You cannot use armed helicopters on civilians unless they pose a threat to the pilot
+18. You cannot use armed helicopters on civilians unless they pose a threat to the pilot.
+
+19. Do not use buildable items (road barries, bar gates, etc) to troll or cause a general nuisance to the server. These items must be used for valid roleplay scenarios.
 
 # News Team Rules
 
