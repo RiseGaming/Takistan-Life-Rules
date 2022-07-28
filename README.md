@@ -38,7 +38,7 @@ Last Updated  by cis272
 
 16. You may not kill a visibly unarmed member of another faction. ex. If you are an Independent and see a Blufor that is visibly unarmed, you may not kill them, and vice versa. If they are in a vehicle, they are classed as Armed, unless it is the ATV or any bike. If at any point they brandish a firearm or fire a round, they may be shot.
 
-17. Spawn camping is not allowed.
+17. Spawn camping is not allowed, Players must be allowed a ground exit route from spawn.
 
 18. You cannot use armed helicopters on civilians unless they pose a threat to the pilot.
 
