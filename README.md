@@ -172,7 +172,7 @@ Last Updated  by cis272
 
 2. You do not owe comp to Civilians if they run out into the road while you are responding to a call with your sirens on.
 
-3. Unless you roleplaying as an undercover officer, police should always use marked police vehicles when patrolling.
+3. Unless you are undercover, police should always use marked police vehicles when patrolling.
 
 ## Drug/Gang enforcement rules
 
