@@ -150,7 +150,7 @@ Last Updated  by cis272
 
 ## Kill and Arrest Rules
 
-1. Police should never kill an unarmed Civilian. A Civilian in a vehicle that is being used to attempt to VDM a police officer, is considered an "Armed Civilian.”
+1. Police may never kill an unarmed Civilian. A Civilian in a vehicle that is being used to attempt to VDM a police officer, is considered an "Armed Civilian.”
 
 2. All Police are required to carry a stun weapon.
 
