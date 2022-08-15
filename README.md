@@ -46,7 +46,7 @@ Last Updated  by cis272
 
 20. Attempting to rob the convoy payroll of another faction marks you as KOS to that faction (BLUFOR should still try to apprehend non-lethally).
 
-21. Outside of war, if BLUFOR or OPFOR go into the opposing faction's territory then they're considered KOS to that faction.
+21. Outside of war and joint ops, if BLUFOR or OPFOR go into the opposing faction's territory then they're considered KOS to that faction.
 
 # News Team Rules
 
