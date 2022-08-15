@@ -30,7 +30,7 @@ Last Updated  by cis272
 
 12. You may only run someone over using a vehicle if they are firing at your vehicle and putting your life in danger. Violating this is known as VDM (Vehicle Deathmatching).
 
-13. You are not allowed to transfer money, weapons, vehicles, or equipment from your account on one faction to another.
+13. You are not allowed to transfer money, gear, vehicles or any other equipment from one faction to another whether that's via your own account or having other players give you equipment from another faction.
 
 14. As a Civilian you are KOS if you are in any type of armed vehicle.
 
@@ -43,6 +43,10 @@ Last Updated  by cis272
 18. You cannot use armed helicopters on civilians unless they pose a threat to the pilot.
 
 19. Do not use buildable items (road barries, bar gates, etc) to troll or cause a general nuisance to the server. These items must be used for valid roleplay scenarios.
+
+20. Attempting to rob the convoy payroll of another faction marks you as KOS to that faction (BLUFOR should still try to apprehend non-lethally).
+
+21. Outside of joint ops, if BLUFOR or OPFOR go into the opposing faction's territory then they're considered KOS to that faction.
 
 # News Team Rules
 
@@ -68,11 +72,9 @@ Last Updated  by cis272
 
 3. As a member of ESU, you must use only ESU vehicles.
 
-4. You may not sell or provide equipment to anyone outside of ESU.
+4. As an ESU you are immune to having crimes committed against you.
 
-5. As an ESU you are immune to having crimes committed against you.
-
-6. As an ESU you must do ESU-related tasks. You may not conduct other Civilian duties.
+5. As an ESU you must do ESU-related tasks. You may not conduct other Civilian duties.
 
 # War Rules
 
@@ -244,6 +246,10 @@ Last Updated  by cis272
 
 1. Opfor may only ever kill Civilians in self-defense without a valid RP reason.
 
+## OSF Rules
+
+1. Only OSF can conduct incursions into the North but their missions must be valid RP-based objectives such as: kidnapping civilians/the President or police, scouting operations or stealing an enemy convoy. You cannot conduct incursions to simply firefight with Blufor.
+
 # Insurgent Rules
 
 1. Insurgents can ONLY kill Opfor and Blufor on sight.
@@ -330,12 +336,10 @@ Last Updated  by cis272
 
 1. Military Contracting - PMC are allowed to work for any faction. It is at the PMCs discretion which one they choose. While not in contract, PMCs may collect bounties for Blufor or Opfor.
 
-2. PMCs may not use equipment outside of PMC. They may not sell gear or vehicles.
+2. PMC killed on contracts may not ask for comp, unless something outside the contract that is breaking rules results in their death or loss of capital.
 
-3. PMC killed on contracts may not ask for comp, unless something outside the contract that is breaking rules results in their death or loss of capital.
+3. PMCs may set their own contract prices, but may not go below $15,000 or go above $3 Million.
 
-4. PMCs may set their own contract prices, but may not go below $15,000 or go above $3 Million.
+4. PMCs must obey the New Life Rule. Once they die they return to normal PMC status.
 
-5. PMCs must obey the New Life Rule. Once they die they return to normal PMC status.
-
-6. PMCs cannot commit crimes while not in contract.
+5. PMCs cannot commit crimes while not in contract.
