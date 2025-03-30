@@ -14,7 +14,7 @@ _Last updated by Jim on 2025-03-30_
 3. No chat spam (text or voice).
 4. **No RDM (Random Deathmatching):** Only kill with valid RP and direct threat.
 5. **New Life Rule:** Upon death, forget your past life. No returning to the death site for 10 minutes or event duration.
-6. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels.
+6. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels. Donor channels are exempt from this rule.
 7. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
 8. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
 9. Use typed commands (e.g., "hands up")—not everyone hears voice.
