@@ -186,13 +186,13 @@ _Last updated by Jim on 2025-03-30_
 
 ---
 
-## ⚫ Insurgents
+## 🟢 Insurgents
 
 1. May KOS Blufor and Opfor only.
 2. Must follow their Caliph.
 3. Cannot kill Civilians unless attacked.
 4. Must help Civilians who claim to be Muslim.
-5. Bombing checkpoints = sparingly.
+5. Bomb checkpoints sparingly..
 6. Do not camp checkpoints.
 7. Cannot align with factions.
 8. May rob convoys.
@@ -204,7 +204,7 @@ _Last updated by Jim on 2025-03-30_
 
 ### General
 
-1. May take over factories, but not kill indiscriminately.
+1. Allowed to take control of factory zones, but cannot indiscriminately kill others without valid reasoning.
 
 ### No Compensation If:
 
@@ -238,14 +238,14 @@ _Last updated by Jim on 2025-03-30_
 
 ### President
 
-1. Leads the Republic (North); must stay out of South.
+1. Leads the Republic (North); must stay out of the South.
 2. Only allowed a handgun.
 3. Must be on Discord.
 4. Becomes a valid RP target—no compensation if killed.
 5. Unrealistic RP = removal by staff.
 6. Blufor may declare you corrupt and arrest with RP.
 7. Cannot change speed limits.
-8. Declared corrupt = term ends; may flee South.
+8. Declared corrupt = term ends; may flee to the South.
 
 ---
 
