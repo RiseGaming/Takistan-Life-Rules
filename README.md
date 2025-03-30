@@ -155,6 +155,8 @@ Last Updated  by cis272
 
 7. Blufor is not allowed to ask for compensation.
 
+8. Outside of Joint Ops or War, Blufor are not allowed to enter the South for any reason. 
+
 ## Kill and Arrest Rules
 
 1. Police may never kill an unarmed Civilian. A Civilian in a vehicle that is being used to attempt to VDM a police officer, is considered an "Armed Civilian.”
@@ -325,17 +327,21 @@ Last Updated  by cis272
 
 ## President Rules
 
-1. The President is not allowed to carry a weapon other than a handgun.
+1. The President is the leader of the Republic of Takistan (the North) only and should not enter the South during their term.
 
-2. The President is required to be on Discord in the President voice channel.
+2. The President is not allowed to carry a weapon other than a handgun.
 
-3. As president, you have become a role-play target. If you are murdered you are not allowed to ask for compensation. Upon your death you vacate the office.
+3. The President is required to be on Discord in the President voice channel.
 
-4. If you make unrealistic laws or do not fill your role accordingly, staff may remove you from the presidency.
+4. As President, you have become a role-play target. If you are murdered you are not allowed to ask for compensation. Upon your death you vacate the office.
 
-5. Blufor may declare the president corrupt and arrest him, with a valid RP reason.
+5. If you make unrealistic laws or do not fill your role accordingly, staff may remove you from the presidency.
 
-6. The president is not allowed to change speed limits.
+6. Blufor may declare the President corrupt and arrest him, with a valid RP reason.
+
+7. The President is not allowed to change speed limits.
+
+8. If the President is declared corrupt, their term is considered over and they are allowed to flee to the South to avoid arrest.
 
 # PMC Rules
 
