@@ -76,6 +76,11 @@ Last Updated  by cis272
 
 5. As an ESU you must do ESU-related tasks. You may not conduct other Civilian duties.
 
+6. You are not allowed to revive players in an ongoing firefight and must wait at least 1 minute after to make sure the firefight is over.
+
+7. You are not allowed to work for or show favoritism to any faction. 
+
+
 # War Rules
 
 1. The only faction that may declare war is Opfor. They must have staff approval and a valid roleplay reason.
