@@ -192,7 +192,7 @@ _Last updated by Jim on 2025-03-30_
 2. Must follow their Caliph.
 3. Cannot kill Civilians unless attacked.
 4. Must help Civilians who claim to be Muslim.
-5. Bomb checkpoints sparingly..
+5. Bomb checkpoints sparingly.
 6. Do not camp checkpoints.
 7. Cannot align with factions.
 8. May rob convoys.
