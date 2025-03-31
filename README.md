@@ -23,7 +23,7 @@ _Last updated by Jim on 2025-03-30_
 12. No cross-faction transfers of money/gear/vehicles.
 13. Civilians in armed vehicles are KOS.
 14. No kamikaze tactics with air vehicles.
-15. Do not kill visibly unarmed enemies. Vehicles (except ATVs/bikes) = armed.
+15. Do not kill visibly unarmed enemies. VDM attempts = armed. (Exception: ATVs/bikes).
 16. No spawn camping; allow exit routes.
 17. Armed helicopters may only target civilians if threatened.
 18. Use buildable items only for valid RP—no trolling.
@@ -206,7 +206,7 @@ _Last updated by Jim on 2025-03-30_
 
 1. Allowed to take control of factory zones, but cannot indiscriminately kill others without valid reasoning.
 
-### No Compensation If:
+### No Compensation If
 
 - You provoke others with large sums of money.
 - Stand/lie/run in roads to get hit.
@@ -256,3 +256,4 @@ _Last updated by Jim on 2025-03-30_
 3. Contract prices must be between $15k–$3M.
 4. Must follow NLR.
 5. No crimes outside contracts.
+
