@@ -1,6 +1,6 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-_Last updated by Jim on 2025-03-30_
+_Last updated by forest2001 on 2025-04-01_
 
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
