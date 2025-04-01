@@ -13,22 +13,22 @@ _Last updated by Jim on 2025-03-30_
 2. No hacking, exploiting glitches, or using illegitimate items.
 3. No chat spam (text or voice).
 4. **No RDM (Random Deathmatching):** Only kill with valid RP and direct threat.
-5. **New Life Rule:** Upon death, forget your past life. No returning to the death site for 10 minutes or event duration.
+5. **New Life Rule:** As a civilian, upon death, forget your past life. No returning to the death site for 10 minutes or event duration.
 6. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels. Donor channels are exempt from this rule.
 7. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
 8. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
 9. Use typed commands (e.g., "hands up")—not everyone hears voice.
 10. No killing or robbing in Safe Zones.
 11. **No VDM (Vehicle Deathmatching):** Only run someone over if they are actively threatening your life.
-12. No cross-faction transfers of money/gear/vehicles.
-13. Civilians in armed vehicles are KOS.
-14. No kamikaze tactics with air vehicles.
-15. Do not kill visibly unarmed enemies. VDM attempts = armed. (Exception: ATVs/bikes).
-16. No spawn camping; allow exit routes.
-17. Armed helicopters may only target civilians if threatened.
-18. Use buildable items only for valid RP—no trolling.
-19. Robbing another faction’s convoy makes you KOS to them.
-20. Entering enemy territory without joint ops = KOS.
+12. Do not kill visibly unarmed enemies. VDM attempts = armed. (Exception: ATVs/bikes).
+13. Armed helicopters may only target civilians if threatened.
+14. Civilians in armed vehicles are KOS.
+15. No kamikaze tactics with air vehicles.
+16. Robbing another faction’s convoy makes you KOS to them.
+17. Entering enemy territory without joint ops = KOS.
+18. No cross-faction transfers of money/gear/vehicles.
+19. No spawn camping; allow exit routes.
+20. Use buildable items only for valid RP—no trolling.
 
 ---
 
@@ -224,7 +224,7 @@ _Last updated by Jim on 2025-03-30_
 ### Stealing
 
 1. No stealing in safe zones.
-2. May steal faction vehicles; expect lethal response.
+2. May steal faction vehicles but expect a lethal response.
 
 ### Gangs
 
@@ -238,14 +238,14 @@ _Last updated by Jim on 2025-03-30_
 
 ### President
 
-1. Leads the Republic (North); must stay out of the South.
-2. Only allowed a handgun.
-3. Must be on Discord.
-4. Becomes a valid RP target—no compensation if killed.
-5. Unrealistic RP = removal by staff.
-6. Blufor may declare you corrupt and arrest with RP.
-7. Cannot change speed limits.
-8. Declared corrupt = term ends; may flee to the South.
+1. Must be on Discord.
+2. Leads the Republic (North); must stay out of the South.
+3. Blufor may declare you corrupt and arrest with RP.
+4. Declared corrupt = term ends; may flee to the South.
+5. Only allowed a handgun.
+6. Becomes a valid RP target—no compensation if killed.
+7. Unrealistic RP = removal by staff.
+8. Cannot change speed limits.
 
 ---
 
