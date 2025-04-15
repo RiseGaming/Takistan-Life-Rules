@@ -60,7 +60,7 @@ _Last updated by forest2001 on 2025-04-01_
 1. Only Opfor can declare war with valid RP and staff approval.
 2. Civilians may not participate.
 3. Minimize civilian casualties.
-4. To win: Contain enemy within 1500m of base for 10 minutes.
+4. To win: Capture all enemy territory points and contain them within 1500m of their base for 10 minutes.
 5. If you shoot from a safezone, you forfeit safezone protection.
 6. No war within the first hour of server uptime.
 7. War ends in a draw if unresolved after 2 hours.
