@@ -113,7 +113,7 @@ _Last updated by Supersahen on 2025-09-17_
 1. Never kill unarmed Civilians. VDM attempts = armed.
 2. Must carry a stun weapon.
 3. Must give reason for arrests.
-4. Civs in armed police vehicles = KOS; otherwise arrest.
+4. Civs in armed and heavily armoured police vehicles = KOS; otherwise arrest. (anything resistant to rifle is heavily armoured)
 
 ### Searches
 
