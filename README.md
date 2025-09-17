@@ -1,6 +1,6 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-_Last updated by forest2001 on 2025-04-01_
+_Last updated by Supersahen on 2025-09-17_
 
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
@@ -12,22 +12,22 @@ _Last updated by forest2001 on 2025-04-01_
 1. Be respectful. Discrimination or harassment of any kind is punishable.
 2. No hacking, exploiting glitches, or using illegitimate items.
 3. No chat spam (text or voice).
-4. **No RDM (Random Deathmatching):** Only kill with valid RP and direct threat.
-5. **New Life Rule:** As a civilian, upon death, forget your past life. No returning to the death site for 10 minutes or event duration.
+4. **No RDM (Random Deathmatching):** Only kill when there is valid in-character RP and an immediate, demonstrable lethal threat (e.g., aimed weapon, firing, or imminent vehicle ramming).
+5. **New Life Rule:** As a civilian, upon death you lose memory of your prior life. Do not return to the exact death location or attempt to recover gear for 10 minutes or for the event duration.
 6. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels. Donor channels are exempt from this rule.
 7. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
 8. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
 9. Use typed commands (e.g., "hands up")—not everyone hears voice.
 10. No killing or robbing in Safe Zones.
-11. **No VDM (Vehicle Deathmatching):** Only run someone over if they are actively threatening your life.
-12. Do not kill visibly unarmed enemies. VDM attempts = armed. (Exception: ATVs/bikes).
+11. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
+12. Do not kill visibly unarmed players. If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
 13. Armed helicopters may only target civilians if threatened.
-14. Civilians in armed vehicles are KOS.
-15. No kamikaze tactics with air vehicles.
-16. Robbing another faction’s convoy makes you KOS to them.
+14. Civilians in armed vehicles are KOS: a vehicle is considered 'armed' if it has mounted weapons.
+15. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
+16. Actively Robbing another faction’s convoy will make you KOS.
 17. Entering enemy territory without joint ops = KOS.
 18. No cross-faction transfers of money/gear/vehicles.
-19. No spawn camping; allow exit routes.
+19. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
 20. Use buildable items only for valid RP—no trolling.
 
 ---
@@ -48,10 +48,10 @@ _Last updated by forest2001 on 2025-04-01_
 
 1. Must wear ESU uniform and use ESU vehicles only.
 2. Cannot be armed or commit crimes.
-3. Immune to crimes being committed against them.
+3. Protected while clearly performing ESU duties; this is not a license to commit crimes or avoid lawful enforcement.
 4. Only perform ESU duties.
 5. Wait 1 minute after combat ends to revive.
-6. Must remain neutral in all interactions.
+6. Must remain faction neutral in all interactions.
 
 ---
 
@@ -102,11 +102,11 @@ _Last updated by forest2001 on 2025-04-01_
 1. Must be on Discord in Blufor voice channels.
 2. Role: Protect civilians and enforce law.
 3. Use non-lethal force first when possible.
-4. Police Chief must be active on Discord; staff may replace.
-5. Observe rank hierarchy. Staff > Chief.
+4. Police Chief must be active on Discord; staff may replace at their own discretion.
+5. Observe rank hierarchy. Staff > Chief > Higher Ranking Officers.
 6. Must explain citations for them to be valid.
-7. No compensation requests.
-8. Cannot enter the South unless in joint ops or war.
+7. No compensation requests unless a rule was broken.
+8. Cannot enter the South unless in joint ops or war. (without)
 
 ### Kill/Arrest
 
@@ -117,14 +117,14 @@ _Last updated by forest2001 on 2025-04-01_
 
 ### Searches
 
-1. Require probable cause outside gov areas.
+1. Require probable cause outside gov areas (examples: observed crime, visible contraband, or suspicious behavior).
 2. At a traffic stop, only tickets allowed unless probable cause.
 3. Can search at gov facilities/checkpoints without cause.
 
 ### Vehicles
 
 1. Follow traffic laws. Violators may be removed from Blufor.
-2. No compensation owed to Civs who obstruct emergency responses.
+2. No compensation owed to Civs who intentionally obstruct responding police vehicles.
 3. Use marked vehicles unless undercover.
 
 ### Drugs/Gangs
@@ -140,8 +140,8 @@ _Last updated by forest2001 on 2025-04-01_
 
 ### Checkpoints
 
-1. Must have bar gate + sign.
-2. Civs approaching may be searched.
+1. Must have bar gate + sign, and be suitably marked on the map.
+2. Civs approaching may be searched at will.
 3. Check license before disarming; holstered pistols allowed.
 4. Turning around near a checkpoint is illegal.
 
@@ -152,7 +152,7 @@ _Last updated by forest2001 on 2025-04-01_
 
 ### Insurgents
 
-1. Blufor and Insurgents may KOS, but arrest is preferred.
+1. Blufor and Insurgents may KOS; arrests are preferred when safe and feasible.
 2. May arrest insurgents without a witnessed crime.
 
 ---
@@ -171,31 +171,32 @@ _Last updated by forest2001 on 2025-04-01_
 
 ### Insurgents
 
-1. May arrest for terrorism; hold longer for serious crimes.
-2. No camping Insurgent bases.
-3. Cannot request compensation after being killed by Insurgents.
+1. KOS is acceptable but arresting is preferred.
+2. May be arrested for terrorism or held longer for other crimes.
+3. No camping Insurgent bases.
+4. Cannot request compensation after being killed by Insurgents.
 
 ### Kill/Arrest
 
-1. May only kill Civilians in self-defense without RP.
+1. May only kill Civilians in self-defense without a roleplay justification.
 
 ### OSF
 
 1. May conduct RP-valid incursions into North (e.g., kidnapping, convoy theft).
-2. No incursions just to fight Blufor.
+2. Incursions just to incite war or fight blufor are forbidden.
 
 ---
 
 ## 🟢 Insurgents
 
 1. May KOS Blufor and Opfor only.
-2. Must follow their Caliph.
+2. Must follow the orders of their Caliph.
 3. Cannot kill Civilians unless attacked.
-4. Must help Civilians who claim to be Muslim.
+4. Must help and protect Muslim Civilians where possible.
 5. Bomb checkpoints sparingly.
 6. Do not camp checkpoints.
-7. Cannot align with factions.
-8. May rob convoys.
+7. Cannot align or prefer certain factions.
+8. May rob gov convoys.
 9. May hire PMCs.
 
 ---
@@ -229,8 +230,8 @@ _Last updated by forest2001 on 2025-04-01_
 ### Gangs
 
 1. May kill/steal/claim territory from rival gangs.
-2. Cannot claim compensation when killed in gang/drug zones.
-3. Must declare gang war for combat in towns.
+2. Cannot claim compensation when killed in gang/drug zones by other gangs.
+3. Must declare war on another gang for combat in towns.
 
 ### Terrorism
 
@@ -243,15 +244,15 @@ _Last updated by forest2001 on 2025-04-01_
 3. Blufor may declare you corrupt and arrest with RP.
 4. Declared corrupt = term ends; may flee to the South.
 5. Only allowed a handgun.
-6. Becomes a valid RP target—no compensation if killed.
-7. Unrealistic RP = removal by staff.
+6. Becomes a valid RP target — no compensation if killed during roleplay.
+7. Unrealistic RP can lead to removal by staff.
 8. Cannot change speed limits.
 
 ---
 
 ## 💼 PMC
 
-1. May work for any faction; bounty collect when not contracted.
+1. May work for any faction; and collect bounties when not contracted.
 2. No compensation unless rulebreak leads to loss.
 3. Contract prices must be between $15k–$3M.
 4. Must follow NLR.
