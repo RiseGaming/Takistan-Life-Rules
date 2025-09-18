@@ -24,7 +24,7 @@ _Last updated by Supersahen on 2025-09-17_
 13. Armed helicopters may only target civilians if threatened.
 14. Civilians in armed vehicles are KOS: a vehicle is considered 'armed' if it has mounted weapons.
 15. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
-16. Actively Robbing another faction’s convoy will make you KOS.
+16. Actively robbing another faction’s convoy will make you KOS.
 17. Entering enemy territory without joint ops = KOS.
 18. No cross-faction transfers of money/gear/vehicles.
 19. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
@@ -48,7 +48,7 @@ _Last updated by Supersahen on 2025-09-17_
 
 1. Must wear ESU uniform and use ESU vehicles only.
 2. Cannot be armed or commit crimes.
-3. Protected while clearly performing ESU duties; this is not a license to commit crimes or avoid lawful enforcement.
+3. Protected from crimes being comitted against them; this is not a license to commit crimes or avoid lawful enforcement.
 4. Only perform ESU duties.
 5. Wait 1 minute after combat ends to revive.
 6. Must remain faction neutral in all interactions.
@@ -106,14 +106,14 @@ _Last updated by Supersahen on 2025-09-17_
 5. Observe rank hierarchy. Staff > Chief > Higher Ranking Officers.
 6. Must explain citations for them to be valid.
 7. No compensation requests unless a rule was broken.
-8. Cannot enter the South unless in joint ops or war. (without)
+8. Cannot enter the South unless in joint ops, war, or OPFOR permission.
 
 ### Kill/Arrest
 
 1. Never kill unarmed Civilians. VDM attempts = armed.
 2. Must carry a stun weapon.
 3. Must give reason for arrests.
-4. Civs in armed and heavily armoured police vehicles = KOS; otherwise arrest. (anything resistant to rifle is heavily armoured)
+4. Civs in armed and heavily armoured police vehicles = KOS; otherwise arrest. (anything resistant to 7.62x51mm rifle is heavily armoured)
 
 ### Searches
 
