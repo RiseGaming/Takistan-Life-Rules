@@ -119,7 +119,7 @@ _Last updated by Supersahen on 2025-09-17_
 
 1. Require probable cause outside gov areas (examples: observed crime, visible contraband, or suspicious behavior).
 2. At a traffic stop, only tickets allowed unless probable cause.
-3. Can search at gov facilities/checkpoints without cause.
+3. Can search at government facilities/checkpoints without cause.
 
 ### Vehicles
 
@@ -196,7 +196,7 @@ _Last updated by Supersahen on 2025-09-17_
 5. Bomb checkpoints sparingly.
 6. Do not camp checkpoints.
 7. Cannot align or prefer certain factions.
-8. May rob gov convoys.
+8. May rob gov government convoys.
 9. May hire PMCs.
 
 ---
@@ -230,7 +230,7 @@ _Last updated by Supersahen on 2025-09-17_
 ### Gangs
 
 1. May kill/steal/claim territory from rival gangs.
-2. Cannot claim compensation when killed in gang/drug zones by other gangs.
+2. Cannot claim compensation when killed in gang/drug zones.
 3. Must declare war on another gang for combat in towns.
 
 ### Terrorism
