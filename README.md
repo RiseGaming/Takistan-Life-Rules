@@ -257,3 +257,4 @@ _Last updated by Supersahen on 2025-09-17_
 3. Contract prices must be between $15k–$3M.
 4. Must follow NLR.
 5. No crimes outside contracts.
+6. Must be 300+ meters away and have no direct line-of-sight to the target when accepting a contract.
