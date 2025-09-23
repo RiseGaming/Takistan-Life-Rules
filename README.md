@@ -1,6 +1,6 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-_Last updated by Supersahen on 2025-09-17_
+_Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
@@ -257,4 +257,4 @@ _Last updated by Supersahen on 2025-09-17_
 3. Contract prices must be between $15k–$3M.
 4. Must follow NLR.
 5. No crimes outside contracts.
-6. Must be 300+ meters away and have no direct line-of-sight to the target when accepting a contract.
+6. Must wait 2 minutes before taking action against any targets after accepting a contract.
