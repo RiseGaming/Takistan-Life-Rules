@@ -106,7 +106,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 5. Observe rank hierarchy. Staff > Chief > Higher Ranking Officers.
 6. Must explain citations for them to be valid.
 7. No compensation requests unless a rule was broken.
-8. Cannot enter the South unless in joint ops, war, or OPFOR permission.
+8. Cannot enter the South unless in joint ops, war, or OPFOR permission. This does not inhibit engaging independents or hostiles who have fled South, so long as BLUFOR remain in the North.
 
 ### Kill/Arrest
 
