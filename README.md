@@ -102,8 +102,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
    b. War is declared.<br>
    c. The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom)<br>
    d. OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
-2. Drones may not be sent across the border without one or more of the same conditions being met.<br>
-  a. All OPFOR are excluded from this rule so long as they have an RP reason.
+2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.<br>
 4. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.<br>
   a. This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.<br>
   b. Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.
@@ -122,7 +121,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 5. Observe rank hierarchy. Staff > Chief > Higher Ranking Officers.
 6. Must explain citations for them to be valid.
 7. No compensation requests unless a rule was broken.
-8. Cannot enter the South unless in joint ops, war, or with OPFOR permission. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#-cross-border-operations) for further information.
+8. Cannot enter the South unless in joint ops, war, or with OPFOR permission. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
 
 ### Kill/Arrest
 
@@ -180,7 +179,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 1. Must allow Civ access to land/resources.
 2. Non-lethal methods encouraged but not required.
 3. Cannot tax more than $150,000.
-4. Cannot enter the North unless in joint ops, war, or with BLUFOR permission. OSF are excluded from this. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#-cross-border-operations) for further information.
+4. Cannot enter the North unless in joint ops, war, or with BLUFOR permission. OSF are excluded from this. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
 
 ### Checkpoints
 
