@@ -122,7 +122,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 5. Observe rank hierarchy. Staff > Chief > Higher Ranking Officers.
 6. Must explain citations for them to be valid.
 7. No compensation requests unless a rule was broken.
-8. Cannot enter the South unless in joint ops, war, or with OPFOR permission. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#-cross-border-operations) for further information.
+8. Cannot enter the South unless in joint ops, war, or with OPFOR permission. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
 
 ### Kill/Arrest
 
@@ -180,7 +180,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 1. Must allow Civ access to land/resources.
 2. Non-lethal methods encouraged but not required.
 3. Cannot tax more than $150,000.
-4. Cannot enter the North unless in joint ops, war, or with BLUFOR permission. OSF are excluded from this. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#-cross-border-operations) for further information.
+4. Cannot enter the North unless in joint ops, war, or with BLUFOR permission. OSF are excluded from this. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
 
 ### Checkpoints
 
