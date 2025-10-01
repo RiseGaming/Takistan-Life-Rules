@@ -1,6 +1,6 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-_Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
+_Last updated by cis272 on 2025-10-01 10:08 UTC_
 
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
@@ -85,14 +85,15 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 
 1. Declared by mutual agreement of Blufor/Opfor commanders.
 2. Enables faction collaboration.
-3. Territory rules apply (e.g. Opfor leads in South).
+3. Territory rules apply (e.g. Opfor leads in the South).
 4. Must be communicated to all units.
 5. Cross-territory access is allowed.
 6. Either faction can end the operation.
 7. War cannot be declared during joint ops.
 8. Both factions enforce laws map-wide.
 9. Staff controls declaration/end.
-
+10. OPFOR cannot bring War Vehicles into the North if Martial Law is not declared.<br>
+   a. War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.<br>
 ---
 
 ## ⚖️ Cross-Border Operations
@@ -103,7 +104,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
    c. The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom)<br>
    d. OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
 2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.<br>
-4. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.<br>
+3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.<br>
   a. This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.<br>
   b. Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.
 
@@ -212,7 +213,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 5. Bomb checkpoints sparingly.
 6. Do not camp checkpoints.
 7. Cannot align or prefer certain factions.
-8. May rob gov government convoys.
+8. May rob government convoys.
 9. May hire PMCs.
 
 ---
