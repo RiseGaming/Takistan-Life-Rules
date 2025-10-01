@@ -26,12 +26,12 @@ _Last updated by cis272 on 2025-10-01 10:45 UTC_
 
 1. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
 2. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.<br>
-   a. Active Combat / Active Chase is defined firing or being fired upon or being within immediate range (up to 500m) of your opponent in the last 5 minutes.
+   - Active Combat / Active Chase is defined firing or being fired upon or being within immediate range (up to 500m) of your opponent in the last 5 minutes.
 3. No killing or robbing in Safe Zones.
 4. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
-5. Do not kill visibly unarmed players. If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
+5. **Do not kill visibly unarmed players.** If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
 6. Armed helicopters may only target civilians if threatened.
-7. Civilians in armed vehicles are KOS: a vehicle is considered 'armed' if it has mounted weapons.
+7. **Civilians in armed vehicles are KOS:** a vehicle is considered 'armed' if it has mounted weapons.
 8. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
 9. Actively robbing another faction’s convoy will make you KOS.
 10. Entering enemy territory without joint ops = KOS.
@@ -100,21 +100,21 @@ _Last updated by cis272 on 2025-10-01 10:45 UTC_
 8. Both factions enforce laws map-wide.
 9. Staff controls declaration/end.
 10. OPFOR cannot bring War Vehicles into the North if Martial Law is not declared.<br>
-   a. War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.<br>
+    - War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.<br>
 ---
 
 ## ⚖️ Cross-Border Operations
 
-1. Neither BLUFOR nor OPFOR may be in the territory of the other faction unless one or more of the following conditions are met.<br>
-   a. Joint Operations are declared.<br>
-   b. War is declared.<br>
-   c. The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom (Joint Ops Rule 10 still applies in this scenario))<br>
-   d. OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
-2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.<br>
-3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.<br>
-  a. This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.<br>
-  b. Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.<br>
-  c. OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared (See Joint Ops Rule 10a for War Vehicle definition).<br>
+1. Neither BLUFOR nor OPFOR may be in the territory of the other faction unless one or more of the following conditions are met.
+   - Joint Operations are declared.
+   - War is declared.
+   - The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom (Joint Ops Rule 10 still applies in this scenario))
+   - OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
+2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.
+3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.
+   - This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.
+   - Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.
+   - OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared (See Joint Ops Rule 10a for War Vehicle definition).
 
 
 ---
