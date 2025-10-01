@@ -25,7 +25,8 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 ## ⚔️ Combat Rules
 
 1. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
-2. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.
+2. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.<br>
+   a. Active Combat / Active Chase is defined as being fired upon or within immediate range of your opponent in the last 5 minutes.
 3. No killing or robbing in Safe Zones.
 4. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
 5. Do not kill visibly unarmed players. If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
@@ -34,7 +35,7 @@ _Last updated by xXJim RogersXx on 2025-09-23 17:01 UTC_
 8. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
 9. Actively robbing another faction’s convoy will make you KOS.
 10. Entering enemy territory without joint ops = KOS.
-11. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
+12. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
 
 ---
 
