@@ -1,6 +1,6 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-_Last updated by cis272 on 2025-10-01 10:08 UTC_
+_Last updated by cis272 on 2025-10-01 10:45 UTC_
 
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
@@ -26,7 +26,7 @@ _Last updated by cis272 on 2025-10-01 10:08 UTC_
 
 1. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
 2. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.<br>
-   a. Active Combat / Active Chase is defined as being fired upon or within immediate range of your opponent in the last 5 minutes.
+   a. Active Combat / Active Chase is defined firing or being fired upon or being within immediate range (up to 500m) of your opponent in the last 5 minutes.
 3. No killing or robbing in Safe Zones.
 4. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
 5. Do not kill visibly unarmed players. If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
@@ -68,7 +68,7 @@ _Last updated by cis272 on 2025-10-01 10:08 UTC_
 2. Civilians may not participate.
 3. Minimize civilian casualties.
 4. To win: Capture all enemy territory points and contain them within 1500m of their base for 10 minutes.
-5. If you shoot from a safezone, you forfeit safezone protection.
+5. If you shoot from a no kill zone, you forfeit no kill zone protection for 5 minutes.
 6. No war within the first hour of server uptime.
 7. War ends in a draw if unresolved after 2 hours.
 8. No land or rewards granted unless staff declares.
@@ -108,12 +108,13 @@ _Last updated by cis272 on 2025-10-01 10:08 UTC_
 1. Neither BLUFOR nor OPFOR may be in the territory of the other faction unless one or more of the following conditions are met.<br>
    a. Joint Operations are declared.<br>
    b. War is declared.<br>
-   c. The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom)<br>
+   c. The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom (Joint Ops Rule 10 still applies in this scenario))<br>
    d. OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
 2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.<br>
 3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.<br>
   a. This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.<br>
-  b. Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.
+  b. Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.<br>
+  c. OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared (See Joint Ops Rule 10a for War Vehicle definition).<br>
 
 
 ---
