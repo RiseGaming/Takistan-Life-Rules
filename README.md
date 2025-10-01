@@ -280,11 +280,13 @@
 1. Must be on Discord.
 2. Leads the Republic (North); must stay out of the South.
 3. Blufor may declare you corrupt and arrest with RP.
-4. Declared corrupt = term ends; may flee to the South.
-5. Only allowed a handgun.
-6. Becomes a valid RP target — no compensation if killed during roleplay.
-7. Unrealistic RP can lead to removal by staff.
-8. Cannot change speed limits.
+   - If declared corrupt your term ends and you may flee to the South.
+4. Only allowed a handgun.
+5. Becomes a valid RP target — no compensation if killed during roleplay.
+6. Cannot change speed limits.
+
+> [!WARNING]  
+> Unrealistic RP can lead to removal by staff.
 
 ---
 
