@@ -1,6 +1,7 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-_Last updated by cis272 on 2025-10-01 11:26 UTC_
+> [!NOTE]  
+> Last updated by forest2001 on 2025-10-01 11:00 UTC.
 
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
@@ -12,54 +13,39 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 1. Be respectful. Discrimination or harassment of any kind is punishable.
 2. No hacking, exploiting glitches, or using illegitimate items.
 3. No chat spam (text or voice).
-4. **No RDM (Random Deathmatching):** Only kill when there is valid in-character RP and an immediate, demonstrable lethal threat (e.g., aimed weapon, firing, or imminent vehicle ramming).
-5. **New Life Rule:** As a civilian, upon death you lose memory of your prior life. Do not return to the exact death location or attempt to recover gear for 10 minutes or for the event duration.
-6. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels.
-7. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
-8. Use typed commands (e.g., "hands up")—not everyone hears voice.
-9. No cross-faction transfers of money/gear/vehicles.
-10. Use buildable items only for valid RP—no trolling.
+4. **New Life Rule:** As a civilian, upon death you lose memory of your prior life. Do not return to the exact death location or attempt to recover gear for 10 minutes or for the event duration.
+5. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels.
+6. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
+7. Use typed commands (e.g., "hands up")—not everyone hears voice.
+   - Use of the Shout mechanic is acceptable.
+8. No cross-faction transfers of money/gear/vehicles.
+9. Use buildable items only for valid RP—no trolling.
 
 ---
 
 ## ⚔️ Combat Rules
 
-1. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
-2. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.<br>
-   - Active Combat / Active Chase is defined firing or being fired upon or being within immediate range (up to 500m) of your opponent in the last 5 minutes.
-3. No killing or robbing in Safe Zones.
-4. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
-5. **Do not kill visibly unarmed players.** If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
-6. Armed helicopters may only target civilians if threatened.
-7. **Civilians in armed vehicles are KOS:** a vehicle is considered 'armed' if it has mounted weapons.
-8. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
+1. **No RDM (Random Deathmatching):** Only kill when there is valid in-character RP and an immediate, demonstrable lethal threat (e.g., aimed weapon, firing, or imminent vehicle ramming).
+2. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
+3. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.
+   - Active Combat / Active Chase is defined as firing or being fired upon or being within immediate range (up to 500m) of your opponent in the last 5 minutes.
+4. No killing or robbing in Safe Zones.
+   - If you shoot from a no kill zone, you forfeit no kill zone protection for 5 minutes.
+5. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
+   - This refers specifically to running people over and not to vehicle weapons.
+   - No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
+6. **Do not kill visibly unarmed players.** If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. 
+   - Exception: collisions with ATVs/bikes that cannot reasonably defend.
+7. Armed helicopters may only target civilians if threatened.
+8. **Civilians in armed vehicles are KOS:** a vehicle is considered 'armed' if it has mounted weapons.
 9. Actively robbing another faction’s convoy will make you KOS.
 10. Entering enemy territory without joint ops = KOS.
 11. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
 12. Any weapon or vehicle that uses the artillery computer must be at least 1 km away from a safezone when firing. After firing, it must stay at least 1 km away for 5 minutes after the last shell has landed.
 
----
-
-## 📰 News Team
-
-1. Must wear press outfit and hold a valid news license.
-2. News teams have diplomatic immunity unless explicitly denied access.
-3. Never harm or obstruct news crew.
-4. Must remain neutral and unarmed.
-5. Cannot share tactical info or unit locations.
-6. Assume responsibility for entering combat zones.
-7. Must obey police when told to leave an area.
-
----
-
-## 🚑 ESU Rules
-
-1. Must wear ESU uniform and use ESU vehicles only.
-2. Cannot be armed or commit crimes.
-3. Protected from crimes being comitted against them; this is not a license to commit crimes or avoid lawful enforcement.
-4. Only perform ESU duties.
-5. Wait 1 minute after combat ends to revive.
-6. Must remain faction neutral in all interactions.
+> [!IMPORTANT]  
+> A safezone is defined as an area with immortality.<br>
+> A no-kill zone is defined as within a map area marked by a 'no-kill circle'.
 
 ---
 
@@ -69,12 +55,13 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 2. Civilians may not participate.
 3. Minimize civilian casualties.
 4. To win: Capture all enemy territory points and contain them within 1500m of their base for 10 minutes.
-5. If you shoot from a no kill zone, you forfeit no kill zone protection for 5 minutes.
-6. No war within the first hour of server uptime.
-7. War ends in a draw if unresolved after 2 hours.
-8. No land or rewards granted unless staff declares.
-9. Staff may end war at any time.
+5. No war within the first hour of server uptime.
+6. War ends in a draw if unresolved after 2 hours.
+7. No land or rewards granted unless staff declares.
+8. Staff may end war at any time.
 
+> [!WARNING]  
+> Staff have final say on Declaration/Ending of War.
 ---
 
 ## 🚨 Martial Law
@@ -85,23 +72,28 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 4. War vehicles cannot target civilians unless lethal threat.
 5. Must end martial law once threat is over.
 6. Civilians can be searched without cause during martial law.
-7. Staff controls declaration/end.
 
+> [!WARNING]  
+> Staff have final say on Declaration/Ending of Martial Law.
 ---
 
 ## 🤝 Joint Ops
 
 1. Declared by mutual agreement of Blufor/Opfor commanders.
+   - Either side may choose to end Joint Ops.
 2. Enables faction collaboration.
+   - War cannot be declared whilst Joint Ops are active.
+   - OPFOR cannot bring War Vehicles into the North if Martial Law is not declared.
 3. Territory rules apply (e.g. Opfor leads in the South).
 4. Must be communicated to all units.
 5. Cross-territory access is allowed.
-6. Either faction can end the operation.
-7. War cannot be declared during joint ops.
-8. Both factions enforce laws map-wide.
-9. Staff controls declaration/end.
-10. OPFOR cannot bring War Vehicles into the North if Martial Law is not declared.<br>
-    - War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.<br>
+6. Both factions enforce laws map-wide.
+
+> [!IMPORTANT]  
+> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
+
+> [!WARNING]  
+> Staff have final say on Declaration/Ending of Joint Ops.
 ---
 
 ## ⚖️ Cross-Border Operations
@@ -109,13 +101,14 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 1. Neither BLUFOR nor OPFOR may be in the territory of the other faction unless one or more of the following conditions are met.
    - Joint Operations are declared.
    - War is declared.
-   - The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom (Joint Ops Rule 10 still applies in this scenario))
+   - The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom)
+     - Joint Ops Rule 10 still applies in this scenario
    - OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
 2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.
 3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.
    - This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.
    - Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.
-  c. OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the hostile poses a threat to your life (See Joint Ops Rule 10a for War Vehicle definition).<br>
+   - OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the hostile poses a threat to your life (See Joint Ops Rule 10a for War Vehicle definition).
 
 
 ---
@@ -128,7 +121,7 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 2. Role: Protect civilians and enforce law.
 3. Use non-lethal force first when possible.
 4. Police Chief must be active on Discord; staff may replace at their own discretion.
-5. Observe rank hierarchy. Staff > Chief > Higher Ranking Officers.
+5. Observe rank hierarchy. Staff > Supervisor > Chief > Higher Ranking Officers.
 6. Must explain citations for them to be valid.
 7. No compensation requests unless a rule was broken.
 8. Cannot enter the South unless in joint ops, war, or with OPFOR permission. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
@@ -138,11 +131,11 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 1. Never kill unarmed Civilians. VDM attempts = armed.
 2. Must carry a stun weapon.
 3. Must give reason for arrests.
-4. Civs in armed and heavily armoured police vehicles = KOS; otherwise arrest. (anything resistant to 7.62x51mm rifle is heavily armoured)
+4. Civs in armed and/or heavily armoured police vehicles = KOS; otherwise arrest. (anything resistant to 7.62x51mm rifle is considered heavily armoured)
 
 ### Searches
 
-1. Require probable cause outside gov areas (examples: observed crime, visible contraband, or suspicious behavior).
+1. Require probable cause outside government areas (examples: observed crime, visible contraband, or suspicious behavior).
 2. At a traffic stop, only tickets allowed unless probable cause.
 3. Can search at government facilities/checkpoints without cause.
 
@@ -193,7 +186,7 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 
 ### Checkpoints
 
-(Same as Blufor)
+[(Same as Blufor)](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#checkpoints)
 
 ### Insurgents
 
@@ -204,7 +197,7 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 
 ### Kill/Arrest
 
-1. May only kill Civilians in self-defense without a roleplay justification.
+1. May only kill Civilians, without a roleplay justification, in self-defense.
 
 ### OSF
 
@@ -225,6 +218,32 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 8. May rob government convoys.
 9. May hire PMCs.
 
+> [!TIP]  
+> Whilst Insurgents have access to many dangerous vehicles consideration should be given to RP as this is not a deathmatch server.
+
+---
+
+## 📰 News Team
+
+1. Must wear press outfit and hold a valid news license.
+2. News teams have diplomatic immunity unless explicitly denied access.
+3. Never harm or obstruct news crew.
+4. Must remain neutral and unarmed.
+5. Cannot share tactical info or unit locations.
+6. Assume responsibility for entering combat zones.
+7. Must obey police when told to leave an area.
+
+---
+
+## 🚑 ESU Rules
+
+1. Must wear ESU uniform and use ESU vehicles only.
+2. Cannot be armed or commit crimes.
+3. Protected from crimes being comitted against them; this is not a license to commit crimes or avoid lawful enforcement.
+4. Only perform ESU duties.
+5. Wait 1 minute after combat ends to revive.
+6. Must remain faction neutral in all interactions.
+
 ---
 
 ## 🟡 Civilians
@@ -232,10 +251,11 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 ### General
 
 1. Allowed to take control of factory zones, but cannot indiscriminately kill others without valid reasoning.
+2. Civilians may not commit terrorism. Switch to Independent.
 
-### No Compensation If
+### No Compensation If You;
 
-- You provoke others with large sums of money.
+- Provoke others with large sums of money.
 - Stand/lie/run in roads to get hit.
 - Punch armed people.
 - Jump from moving vehicles.
@@ -243,10 +263,6 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 - Refuse kidnapping/robbery.
 - Run into gunfights.
 - Drive faction vehicles.
-
-### VDM
-
-- Only allowed if life is in immediate danger.
 
 ### Stealing
 
@@ -258,10 +274,6 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 1. May kill/steal/claim territory from rival gangs.
 2. Cannot claim compensation when killed in gang/drug zones.
 3. Must declare war on another gang for combat in towns.
-
-### Terrorism
-
-1. Civilians may not commit terrorism. Switch to Independent.
 
 ### President
 
@@ -283,4 +295,4 @@ _Last updated by cis272 on 2025-10-01 11:26 UTC_
 3. Contract prices must be between $15k–$3M.
 4. Must follow NLR.
 5. No crimes outside contracts.
-6. Must wait 2 minutes before taking action against any targets after accepting a contract.
+6. Must wait 2 minutes upon accepting a contract before acting upon it.
