@@ -15,20 +15,27 @@ _Last updated by cis272 on 2025-10-01 10:08 UTC_
 4. **No RDM (Random Deathmatching):** Only kill when there is valid in-character RP and an immediate, demonstrable lethal threat (e.g., aimed weapon, firing, or imminent vehicle ramming).
 5. **New Life Rule:** As a civilian, upon death you lose memory of your prior life. Do not return to the exact death location or attempt to recover gear for 10 minutes or for the event duration.
 6. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels.
-7. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
-8. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
-9. Use typed commands (e.g., "hands up")—not everyone hears voice.
-10. No killing or robbing in Safe Zones.
-11. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
-12. Do not kill visibly unarmed players. If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
-13. Armed helicopters may only target civilians if threatened.
-14. Civilians in armed vehicles are KOS: a vehicle is considered 'armed' if it has mounted weapons.
-15. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
-16. Actively robbing another faction’s convoy will make you KOS.
-17. Entering enemy territory without joint ops = KOS.
-18. No cross-faction transfers of money/gear/vehicles.
-19. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
-20. Use buildable items only for valid RP—no trolling.
+7. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
+8. Use typed commands (e.g., "hands up")—not everyone hears voice.
+9. No cross-faction transfers of money/gear/vehicles.
+10. Use buildable items only for valid RP—no trolling.
+
+---
+
+## ⚔️ Combat Rules
+
+1. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
+2. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.<br>
+   a. Active Combat / Active Chase is defined as being fired upon or within immediate range of your opponent in the last 5 minutes.
+3. No killing or robbing in Safe Zones.
+4. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
+5. Do not kill visibly unarmed players. If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. Exception: collisions with ATVs/bikes that cannot reasonably defend.
+6. Armed helicopters may only target civilians if threatened.
+7. Civilians in armed vehicles are KOS: a vehicle is considered 'armed' if it has mounted weapons.
+8. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
+9. Actively robbing another faction’s convoy will make you KOS.
+10. Entering enemy territory without joint ops = KOS.
+12. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
 
 ---
 
