@@ -1,6 +1,6 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-_Last updated by cis272 on 2025-10-01 10:45 UTC_
+_Last updated by cis272 on 2025-10-01 11:26 UTC_
 
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
@@ -35,7 +35,8 @@ _Last updated by cis272 on 2025-10-01 10:45 UTC_
 8. No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
 9. Actively robbing another faction’s convoy will make you KOS.
 10. Entering enemy territory without joint ops = KOS.
-12. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
+11. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
+12. Any weapon or vehicle that uses the artillery computer must be at least 1 km away from a safezone when firing. After firing, it must stay at least 1 km away for 5 minutes after the last shell has landed.
 
 ---
 
@@ -114,7 +115,7 @@ _Last updated by cis272 on 2025-10-01 10:45 UTC_
 3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.<br>
   a. This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.<br>
   b. Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.<br>
-  c. OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared (See Joint Ops Rule 10a for War Vehicle definition).<br>
+  c. OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the hostile poses at threat to your life (See Joint Ops Rule 10a for War Vehicle definition).<br>
 
 
 ---
