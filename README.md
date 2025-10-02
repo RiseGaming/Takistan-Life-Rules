@@ -72,6 +72,9 @@
 5. Must end martial law once threat is over.
 6. Civilians can be searched without cause during martial law.
 
+> [!IMPORTANT]  
+> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
+
 > [!WARNING]  
 > Staff have final say on Declaration/Ending of Martial Law.
 ---
@@ -107,8 +110,10 @@
 3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.
    - This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.
    - Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.
-   - OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the hostile poses a threat to your life (See Joint Ops Rule 10a for War Vehicle definition).
+   - OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the hostile poses a threat to your life.
 
+> [!IMPORTANT]  
+> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
 
 ---
 
@@ -143,6 +148,10 @@
 1. Follow traffic laws. Violators may be removed from Blufor.
 2. No compensation owed to Civs who intentionally obstruct responding police vehicles.
 3. Use marked vehicles unless undercover.
+4. Must place any War Vehicles into the garage unless War / Martial Law is active.
+
+> [!IMPORTANT]  
+> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
 
 ### Drugs/Gangs
 
