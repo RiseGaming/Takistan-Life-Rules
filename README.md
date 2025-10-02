@@ -73,7 +73,7 @@
 6. Civilians can be searched without cause during martial law.
 
 > [!IMPORTANT]  
-> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
+> War Vehicles include any vehicle that uses explosive ordnance or an ammo calibre higher than 12.7×99mm NATO.
 
 > [!WARNING]  
 > Staff have final say on Declaration/Ending of Martial Law.
@@ -92,7 +92,7 @@
 6. Both factions enforce laws map-wide.
 
 > [!IMPORTANT]  
-> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
+> War Vehicles include any vehicle that uses explosive ordnance or an ammo calibre higher than 12.7×99mm NATO.
 
 > [!WARNING]  
 > Staff have final say on Declaration/Ending of Joint Ops.
@@ -103,8 +103,8 @@
 1. Neither BLUFOR nor OPFOR may be in the territory of the other faction unless one or more of the following conditions are met.
    - Joint Operations are declared.
    - War is declared.
-   - The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom)
-     - Joint Ops Rule 10 still applies in this scenario
+   - The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom).
+     - Joint Ops vehicle restrictions still apply in this scenario.
    - OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
 2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.
 3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.
@@ -113,7 +113,7 @@
    - OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the hostile poses a threat to your life.
 
 > [!IMPORTANT]  
-> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
+> War Vehicles include any vehicle that uses explosive ordnance or an ammo calibre higher than 12.7×99mm NATO.
 
 ---
 
@@ -151,7 +151,7 @@
 4. Must place any War Vehicles into the garage unless War / Martial Law is active.
 
 > [!IMPORTANT]  
-> War Vehicles include any vehicle that uses explosive ordinance or an ammo calibre higher than 12.7×99mm NATO.
+> War Vehicles include any vehicle that uses explosive ordnance or an ammo calibre higher than 12.7×99mm NATO.
 
 ### Drugs/Gangs
 
@@ -215,7 +215,7 @@
 
 ### Kill/Arrest
 
-1. May only kill Civilians, without a roleplay justification, in self-defense.
+1. May only kill Civilians in self-defense, and no other roleplay justification is valid.
 
 ### OSF
 
@@ -237,7 +237,7 @@
 9. May hire PMCs.
 
 > [!TIP]  
-> Whilst Insurgents have access to many dangerous vehicles consideration should be given to RP as this is not a deathmatch server.
+> Whilst Insurgents have access to many dangerous vehicles, consideration should be given to RP as this is not a death-match server.
 
 ---
 
@@ -257,7 +257,7 @@
 
 1. Must wear ESU uniform and use ESU vehicles only.
 2. Cannot be armed or commit crimes.
-3. Protected from crimes being comitted against them; this is not a license to commit crimes or avoid lawful enforcement.
+3. Protected from crimes being committed against them; this is not a license to commit crimes or avoid lawful enforcement.
 4. Only perform ESU duties.
 5. Wait 1 minute after combat ends to revive.
 6. Must remain faction neutral in all interactions.
@@ -271,7 +271,7 @@
 1. Allowed to take control of factory zones, but cannot indiscriminately kill others without valid reasoning.
 2. Civilians may not commit terrorism. Switch to Independent.
 
-### No Compensation If You;
+### No Compensation If You
 
 - Provoke others with large sums of money.
 - Stand/lie/run in roads to get hit.
