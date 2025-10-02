@@ -57,8 +57,7 @@
 4. To win: Capture all enemy territory points and contain them within 1500m of their base for 10 minutes.
 5. No war within the first hour of server uptime.
 6. War ends in a draw if unresolved after 2 hours.
-7. No land or rewards granted unless staff declares.
-8. Staff may end war at any time.
+7. No land or rewards granted unless staff say otherwise.
 
 > [!WARNING]  
 > Staff have final say on Declaration/Ending of War.
@@ -172,6 +171,16 @@
 
 1. Blufor and Insurgents may KOS; arrests are preferred when safe and feasible.
 2. May arrest insurgents without a witnessed crime.
+
+### Undercover Officers
+
+1. Undercover Officers must reveal their identities prior to engaging in combat or arrests.
+   - Wearing clothing marked 'Police' is considered revealing identity.
+   - The use of a Shout to reveal yourself is considered revealing identity.
+   - Must use lights and/or sirens when driving unmarked vehicles into combat.
+2. Undercover Officers may utilise civilian vehicles but cannot carry uniformed officers as passengers.
+   - The only exception to this is during War / Martial Law provided there is no alternative transport immediately available for uniformed officers.
+3. Undercover Officers may, provided it is **necessary** to maintain their cover, break speed and traffic laws without lights/sirens active.
 
 ---
 
