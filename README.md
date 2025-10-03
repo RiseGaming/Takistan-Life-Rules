@@ -36,7 +36,7 @@
    - No kamikaze or ramming tactics with vehicles, this includes unmanned drones.
 6. **Do not kill visibly unarmed players.** If a player takes clear hostile action (reaching for a hidden weapon, attempting to ram, etc) treat them as armed. 
    - Exception: collisions with ATVs/bikes that cannot reasonably defend.
-7. Armed helicopters may only target civilians if threatened.
+7. Armed aircraft may only target civilians if directly threatened.
 8. **Civilians in armed vehicles are KOS:** a vehicle is considered 'armed' if it has mounted weapons.
 9. Actively robbing another faction’s convoy will make you KOS.
 10. Entering enemy territory without joint ops = KOS.
@@ -201,6 +201,7 @@
 2. Non-lethal methods encouraged but not required.
 3. Cannot tax more than $150,000.
 4. Cannot enter the North unless in joint ops, war, or with BLUFOR permission. OSF are excluded from this. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
+5. Cannot harvest, process or sell, drugs nor pay someone to do so on their behalf.
 
 ### Checkpoints
 
