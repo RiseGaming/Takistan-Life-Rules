@@ -20,6 +20,7 @@
    - Use of the Shout mechanic is acceptable.
 8. No cross-faction transfers of money/gear/vehicles.
 9. Use buildable items only for valid RP—no trolling.
+   - Staff reserve the right to determine misuse of buildable items.
 
 ---
 
