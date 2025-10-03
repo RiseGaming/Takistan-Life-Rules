@@ -129,6 +129,7 @@
 6. Must explain citations for them to be valid.
 7. No compensation requests unless a rule was broken.
 8. Cannot enter the South unless in joint ops, war, or with OPFOR permission. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
+9. Cannot agree to pay criminals part of their bounty in exchange for their surrender.
 
 ### Kill/Arrest
 
