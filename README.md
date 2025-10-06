@@ -290,7 +290,7 @@
 
 1. Must wear ESU uniform and use ESU vehicles only.
 2. Cannot be armed or commit crimes.
-3. If someone harasses or obstructs ESU, ping staff immediately so they can handle the trolling.
+3. If someone harasses or obstructs ESU, enter a support ticket on Discord and provide your statement and any evidence like recordings or screenshots.
    Pursue criminal charges only when a separate law is broken.
    ESU members remain accountable for their own violations.
 4. Only perform ESU duties.
