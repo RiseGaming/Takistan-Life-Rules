@@ -31,9 +31,8 @@
 1. **No RDM (Random Deathmatching):** Only kill when there is valid in-character RP and an immediate, demonstrable lethal threat (e.g., aimed weapon, firing, or imminent vehicle ramming).
 2. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
 3. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.
-   > [!RULE]  
-   > A chase remains active while both sides have fired within the last **5 minutes** and remain within 500 meters.  
-   > If either 60 seconds pass with more than 500 meters distance or 5 minutes pass since the last shot, **safezone immunity returns**.
+   - A chase remains active while both sides have fired within the last **5 minutes** and remain within 500 meters.
+   - If either 60 seconds pass with more than 500 meters distance or 5 minutes pass since the last shot, **safezone immunity returns**.
 4. No killing or robbing in Safe Zones.
    - If you shoot from a no kill zone, you forfeit no kill zone protection for 5 minutes.
 5. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
