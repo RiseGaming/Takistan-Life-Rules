@@ -19,8 +19,10 @@
 7. Use typed commands (e.g., "hands up")—not everyone hears voice.
    - Use of the Shout mechanic is acceptable.
 8. No cross-faction transfers of money/gear/vehicles.
-9. Use buildable items only for valid RP—no trolling.
-   - Staff reserve the right to determine misuse of buildable items.
+9. Buildable items may only be placed to support an active or imminent RP scenario.
+   Placements that block spawns, safezones, or public roads without scene-specific justification
+   will be removed and may lead to action.
+   - Staff may remove any placement they deem abusive.
 
 ---
 
@@ -29,7 +31,10 @@
 1. **No RDM (Random Deathmatching):** Only kill when there is valid in-character RP and an immediate, demonstrable lethal threat (e.g., aimed weapon, firing, or imminent vehicle ramming).
 2. **No Combat Logging:** Do not respawn or relog to avoid RP consequences.
 3. **No fleeing to safezones:** You may not run into safezones during active combat or whilst being chased by an opposing faction.
-   - Active Combat / Active Chase is defined as firing or being fired upon or being within immediate range (up to 500m) of your opponent in the last 5 minutes.
+   - A chase remains active only while both sides have fired a shot within the last 5 minutes
+     and stayed within 500 meters of each other.
+   - If 60 seconds pass with more than 500 meters between parties or no shots fired,
+     safezone immunity returns.
 4. No killing or robbing in Safe Zones.
    - If you shoot from a no kill zone, you forfeit no kill zone protection for 5 minutes.
 5. **No VDM (Vehicle Deathmatching):** You may only use a vehicle to kill if the target poses an immediate lethal threat (e.g., actively shooting at you or intentionally driving to ram you).
@@ -41,7 +46,8 @@
 8. **Civilians in armed vehicles are KOS:** a vehicle is considered 'armed' if it has mounted weapons.
 9. Actively robbing another faction’s convoy will make you KOS.
 10. Entering enemy territory without joint ops = KOS.
-11. No spawn camping; allow exit routes (leave at least one clear path and reasonable time for players to exit spawn).
+11. No spawn camping. Leave at least one unobstructed spawn exit.
+    Give defenders 2 full minutes after first contact before firing again inside the spawn radius.
 12. Any weapon or vehicle that uses the artillery computer must be at least 1 km away from a safezone when firing. After firing, it must stay at least 1 km away for 5 minutes after the last shell has landed.
 
 > [!IMPORTANT]  
@@ -52,10 +58,15 @@
 
 ## ⚔️ War Rules
 
-1. Only Opfor can declare war with valid RP and staff approval.
+1. Only Opfor may declare war.
+   Submit a declaration to staff with the RP grievance and objectives.
+   Include the intended start time and wait for staff approval.
+   Announce the war in-game (/announce) before hostilities begin.
 2. Civilians may not participate.
 3. Minimize civilian casualties.
-4. To win: Capture all enemy territory points and contain them within 1500m of their base for 10 minutes.
+4. To win, capture all enemy territory points.
+   Keep every enemy combatant inside a 1500 meter radius of their base for 10 consecutive minutes.
+   Verification must come from staff or agreed trackers.
 5. No war within the first hour of server uptime.
 6. War ends in a draw if unresolved after 2 hours.
 7. No land or rewards granted unless staff say otherwise.
@@ -67,10 +78,14 @@
 ## 🚨 Martial Law
 
 1. Declared by staff or high-ranking Blufor.
-2. Enables heavy vehicles against major threats.
+2. Use heavy vehicles only against declared major threats.
+   Examples include armored columns, mass-casualty explosives, or fortified insurgent bases.
+   Log the threat and vehicle authorization in faction comms.
 3. Applies to the entire North.
 4. War vehicles cannot target civilians unless lethal threat.
-5. Must end martial law once threat is over.
+5. End martial law once 10 minutes pass without major threat activity.
+   Confirm the decision with the ranking officer or staff.
+   Extensions beyond 15 minutes require a staff check-in with documented rationale.
 6. Civilians can be searched without cause during martial law.
 
 > [!IMPORTANT]  
@@ -87,7 +102,8 @@
 2. Enables faction collaboration.
    - War cannot be declared whilst Joint Ops are active.
    - OPFOR cannot bring War Vehicles into the North if Martial Law is not declared.
-3. Territory rules apply (e.g. Opfor leads in the South).
+3. Territory rules still apply: Opfor command leads the South and Blufor command leads the North.
+   Notify the hosting faction before enforcing laws across the border.
 4. Must be communicated to all units.
 5. Cross-territory access is allowed.
 6. Both factions enforce laws map-wide.
@@ -101,17 +117,22 @@
 
 ## ⚖️ Cross-Border Operations
 
-1. Neither BLUFOR nor OPFOR may be in the territory of the other faction unless one or more of the following conditions are met.
+1. Neither BLUFOR nor OPFOR may cross into the other's territory unless one of these applies.
    - Joint Operations are declared.
    - War is declared.
-   - The other faction gives specific permission to cross the border for a limited purpose (unlike Joint Ops which is general freedom).
+   - The other faction gives specific permission to cross the border for a limited purpose
+     (unlike Joint Ops which is general freedom).
      - Joint Ops vehicle restrictions still apply in this scenario.
-   - OPFOR OSF are excluded from this rule so long as they have an RP reason, but it is still illegal and they may be engaged by BLUFOR in the North.
-2. BLUFOR Drones may not be sent across the border without one or more of the same conditions being met. OPFOR only require an RP reason.
-3. Both sides can engage known **and confirmed** hostiles who are on the other side of the border, so long as they do not cross the border to do so.
-   - This does not include BLUFOR firing on people leaving the Independent Base who have not expressed hostile action.
-   - Shooting over the border can still incur RP consequences and preferably should be done with permission from the other faction.
-   - OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the hostile poses a threat to your life.
+   - OPFOR OSF may cross into the North for RP-driven missions, but the entry remains illegal;
+     BLUFOR may engage or detain on sight, and OSF cannot claim compensation for any losses.
+2. BLUFOR Drones may not cross the border without one or more of the same conditions being met.
+   OPFOR only require an RP reason.
+3. Both sides may engage confirmed hostiles across the border without crossing it themselves.
+   - This excludes BLUFOR firing on non-hostile players leaving the Independent Base.
+   - Shooting over the border can still incur RP consequences and preferably should be done with
+     permission from the other faction.
+   - OPFOR cannot use War Vehicles to fire into the North if Martial Law is not declared unless the
+     hostile poses a threat to your life.
 
 > [!IMPORTANT]  
 > War Vehicles include any vehicle that uses explosive ordnance or an ammo calibre higher than 12.7×99mm NATO.
@@ -141,7 +162,10 @@
 
 ### Searches
 
-1. Require probable cause outside government areas (examples: observed crime, visible contraband, or suspicious behavior).
+1. Require probable cause outside government areas based on articulable facts such as eyewitness
+   reports, contraband in plain view, fleeing a lawful stop, or sensor alerts.
+   'Suspicious behavior' is limited to tampering with checkpoints, casing secured sites,
+   or refusing lawful commands.
 2. At a traffic stop, only tickets allowed unless probable cause.
 3. Can search at government facilities/checkpoints without cause.
 
@@ -171,11 +195,13 @@
 1. Must have bar gate + sign, and be suitably marked on the map.
 2. Civs approaching may be searched at will.
 3. Check license before disarming; holstered pistols allowed.
-4. Turning around near a checkpoint is illegal.
+4. Treat U-turns within 150 meters of posted checkpoint signage as evasion; vehicles beyond that
+   distance or already cleared to depart may turn around without penalty.
 
 ### Impounding
 
-1. Must impound abandoned vehicles.
+1. Impound vehicles considered abandoned: no owner response within 5 minutes, blocking traffic or
+   spawns, or left unlocked/powered off with no occupants in sight.
 2. Vehicles blocking spawns may be impounded immediately.
 
 ### Insurgents
@@ -189,9 +215,11 @@
    - Wearing clothing marked 'Police' is considered revealing identity.
    - The use of a Shout to reveal yourself is considered revealing identity.
    - Must use lights and/or sirens when driving unmarked vehicles into combat.
-2. Undercover Officers may utilise civilian vehicles but cannot carry uniformed officers as passengers.
-   - The only exception to this is during War / Martial Law provided there is no alternative transport immediately available for uniformed officers.
-3. Undercover Officers may, provided it is **necessary** to maintain their cover, break speed and traffic laws without lights/sirens active.
+2. Undercover Officers may use civilian vehicles but may not carry uniformed officers as passengers.
+   - Exception: during War or Martial Law when no other transport exists for uniformed officers.
+3. Undercover Officers may break traffic laws only when it is the least intrusive way to keep cover.
+   Announce the decision in unit comms.
+   File a brief report if lethal force follows.
 
 ---
 
@@ -199,11 +227,10 @@
 
 ### General
 
-1. Must allow Civ access to land/resources.
-2. Non-lethal methods encouraged but not required.
-3. Cannot tax more than $150,000.
-4. Cannot enter the North unless in joint ops, war, or with BLUFOR permission. OSF are excluded from this. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
-5. Cannot harvest, process or sell, drugs nor pay someone to do so on their behalf.
+1. Non-lethal methods encouraged but not required.
+2. Cannot tax more than $150,000.
+3. Cannot enter the North unless in joint ops, war, or with BLUFOR permission. OSF are excluded from this. See [Cross-Border Operations](https://github.com/RiseGaming/Takistan-Life-Rules?tab=readme-ov-file#%EF%B8%8F-cross-border-operations) for further information.
+4. Cannot harvest, process or sell, drugs nor pay someone to do so on their behalf.
 
 ### Checkpoints
 
@@ -212,7 +239,8 @@
 ### Insurgents
 
 1. KOS is acceptable but arresting is preferred.
-2. May be arrested for terrorism or held longer for other crimes.
+2. May detain suspected insurgents for up to 15 minutes under terrorism charges; state the suspected
+   act and log the detention time in faction comms.
 3. No camping Insurgent bases.
 4. Cannot request compensation after being killed by Insurgents.
 
@@ -232,8 +260,10 @@
 1. May KOS Blufor and Opfor only.
 2. Must follow the orders of their Caliph.
 3. Cannot kill Civilians unless attacked.
-4. Must help and protect Muslim Civilians where possible.
-5. Bomb checkpoints sparingly.
+4. Assist Muslim civilians who self-identify or show relevant RP indicators when it is safe to help.
+   Support can include escorting, medical aid, or extraction; it does not require suicidal actions.
+5. Each insurgent cell may use explosives on the same checkpoint no more than once every 20 minutes
+   and no more than twice per in-game hour unless staff approve a special event.
 6. Do not camp checkpoints.
 7. Cannot align or prefer certain factions.
 8. May rob government convoys.
@@ -247,7 +277,9 @@
 ## 📰 News Team
 
 1. Must wear press outfit and hold a valid news license.
-2. News teams have diplomatic immunity unless explicitly denied access.
+2. News teams have immunity from trespass, curfew, and minor traffic charges while reporting.
+   Immunity ends if they ignore an explicit removal order or commit violent crimes.
+   - Denials must be delivered in voice plus text by the ranking officer on scene.
 3. Never harm or obstruct news crew.
 4. Must remain neutral and unarmed.
 5. Cannot share tactical info or unit locations.
@@ -260,9 +292,13 @@
 
 1. Must wear ESU uniform and use ESU vehicles only.
 2. Cannot be armed or commit crimes.
-3. Protected from crimes being committed against them; this is not a license to commit crimes or avoid lawful enforcement.
+3. If someone harasses or obstructs ESU, ping staff immediately so they can handle the trolling.
+   Pursue criminal charges only when a separate law is broken.
+   ESU members remain accountable for their own violations.
 4. Only perform ESU duties.
-5. Wait 1 minute after combat ends to revive.
+5. Start the revive timer only after the last nearby gunshot, explosion, or downed-player contact.
+   The timer lasts 1 minute; treat "nearby" as within 100 meters.
+   Reset the timer if new combat begins before it expires.
 6. Must remain faction neutral in all interactions.
 
 ---
@@ -271,8 +307,14 @@
 
 ### General
 
-1. Allowed to take control of factory zones, but cannot indiscriminately kill others without valid reasoning.
-2. Civilians may not commit terrorism. Switch to Independent.
+1. Allowed to take control of factory zones.
+   Issue a warning or show a drawn weapon before using lethal force.
+   Skip this step only if facing an immediate life-threatening attack.
+   Record the RP reason if escalation is disputed.
+2. Civilians may not commit terrorism.
+   This covers planned attacks that cause mass civilian casualties or destabilize the government.
+   Examples include VBIEDs and hostage bombings.
+   Players planning such acts must switch to Independent first.
 
 ### No Compensation If You
 
@@ -294,20 +336,25 @@
 
 1. May kill/steal/claim territory from rival gangs.
 2. Cannot claim compensation when killed in gang/drug zones.
-3. Must declare war on another gang for combat in towns.
+3. To fight in towns, the declaring gang leader must announce '/gangwar vs <Gang> in <Town>'.
+   Post it in side chat or Discord.
+   The war lasts 20 minutes unless the other gang declines in chat or staff end it.
 
 ### President
 
 1. Must be on Discord.
 2. Leads the Republic (North); must stay out of the South.
-3. Blufor may declare you corrupt and arrest with RP.
+3. Blufor may declare the President corrupt only after presenting two documented law violations.
+   Staff must confirm before action.
+   Announce the decision over side chat before making an arrest.
    - If declared corrupt your term ends and you may flee to the South.
 4. Only allowed a handgun.
 5. Becomes a valid RP target — no compensation if killed during roleplay.
 6. Cannot change speed limits.
 
 > [!WARNING]  
-> Unrealistic RP can lead to removal by staff.
+> Unrealistic RP includes meme speech during combat, lore-breaking technology, or deliberately
+> immersion-breaking behavior. Staff will warn once; repeat offenses can lead to removal.
 
 ---
 
@@ -318,4 +365,5 @@
 3. Contract prices must be between $15k–$3M.
 4. Must follow NLR.
 5. No crimes outside contracts.
-6. Must wait 2 minutes upon accepting a contract before acting upon it.
+6. Contracts are considered accepted when recorded in side chat or a faction ticket.
+   Include a timestamp and wait 2 minutes before acting on the contract.
