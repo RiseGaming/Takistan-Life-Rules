@@ -11,7 +11,7 @@
 ## ⚖️ General Rules
 
 1. Be respectful. Discrimination or harassment of any kind is punishable.
-2. No hacking, exploiting glitches, or using illegitimate items.
+2. Do not hack or abuse any in-game glitches, exploits, bugs, or unintended mechanics, nor use illegitimate items created through them. Attempting, facilitating, or sharing such behavior is strictly prohibited and will result in repercussions from Rise Gaming staff. This applies regardless of scale, intent, or whether an advantage is gained. Players must immediately log any encountered issues in the [bug-reporting](https://discord.com/channels/973273872537374801/989976285755347034) Discord channel.
 3. No chat spam (text or voice).
 4. **New Life Rule:** As a civilian, upon death you lose memory of your prior life. Do not return to the exact death location or attempt to recover gear for 10 minutes or for the event duration.
 5. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels.
