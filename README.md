@@ -319,4 +319,4 @@
 7. If a contract targets a specific player and involves killing that player, the contract type must be "Custom" and requires valid RP justification.
 
 > [!WARNING]  
-> Be mindful when accepting contracts, PMCs who accept contracts that break server rules risk losing their whitelist status.
+> Be mindful when accepting contracts, PMCs are responsible for ensuring their contracts do not break server rules, and may lose their whitelist should they fail to do this.
