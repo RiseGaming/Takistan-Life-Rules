@@ -1,8 +1,5 @@
 # 📜 Rise Gaming - Takistan Life Rules
 
-> [!NOTE]  
-> Last updated by forest2001 on 2025-10-01 11:00 UTC.
-
 > [!WARNING]  
 > Staff may interpret or expand upon these rules to maintain community health and fair gameplay.
 
@@ -315,7 +312,11 @@
 
 1. May work for any faction; and collect bounties when not contracted.
 2. No compensation unless rulebreak leads to loss.
-3. Contract prices must be between $15k–$3M.
+3. Contract prices must be between $15k–$3M for all contract types apart from the "Custom" type where a minimum of $25 million is required.
 4. Must follow NLR.
 5. No crimes outside contracts.
 6. Must wait 2 minutes upon accepting a contract before acting upon it.
+7. If a contract targets a specific player and involves killing that player, the contract type must be "Custom" and requires valid RP justification.
+
+> [!WARNING]  
+> Be mindful when accepting contracts, PMCs are responsible for ensuring their contracts do not break server rules, and may lose their whitelist should they fail to do this.
