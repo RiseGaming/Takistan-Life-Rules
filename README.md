@@ -264,6 +264,23 @@
 
 ---
 
+
+##  🚛 Tow Truck Driver Rules
+
+1. You may not use items and vehicles from the shop outside of your job.
+2. You may not unlock vehicles for other players with the intent of stealing or using them.
+3. You may not ask for comp when shot or killed for attempting to impound a players vehicle.
+4. You may not be shot for transporting an armed or police vehicle unless you are driving it.
+5. Impounding or transporting a vehicle is at your discretion, If it's unsafe you may withdraw or wait until it is safe.
+6. You are a roleplay target. You may be shot, killed, arrested, robbed etc.
+7. You must fill your job role without bias or favoritism to any faction.
+8. You may not commit crimes or have active warrants while working.
+9. You may be armed for self defense, but only with a pistol type weapon.
+
+
+---
+
+
 ## 🟡 Civilians
 
 ### General
