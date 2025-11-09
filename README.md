@@ -12,12 +12,13 @@
 3. No chat spam (text or voice).
 4. **New Life Rule:** As a civilian, upon death you lose memory of your prior life. Do not return to the exact death location or attempt to recover gear for 10 minutes or for the event duration.
 5. BLUFOR, INDEP, and OPFOR must use their faction’s Discord voice channels.
-6. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)).
+6. No [metagaming](https://en.wikipedia.org/wiki/Metagaming_(role-playing_games)). This includes checking the server player list or player info to determine what faction a player is part of. 
 7. Use typed commands (e.g., "hands up")—not everyone hears voice.
    - Use of the Shout mechanic is acceptable.
 8. No cross-faction transfers of money/gear/vehicles.
 9. Use buildable items only for valid RP—no trolling.
    - Staff reserve the right to determine misuse of buildable items.
+10 Do not use slingloaded objects as weapons and it is also fail RP for players to be inside of a slingloaded vehicle. 
 
 ---
 
@@ -235,9 +236,12 @@
 7. Cannot align or prefer certain factions.
 8. May rob government convoys.
 9. May hire PMCs.
+10. You must be precise and logical with hostile actions. Do not deathmatch with every OPFOR and BLUFOR that you encounter. Remember, you are not a highly trained, well armed military group, you are militia, and should try to utilise guerilla tactics.
+11. Do not repeatedly return to the same area of combat, part of correct RP for a militia force is recognising when to pull back, regroup and plan a new encounter elsewhere. Militia forces are limited and as such, your lives should be treated as a precious commodity. 
+12. Do not use Civilian vehicles for hostile actions outside of suicide/car bombings. They are not to be used for combat situations or avoiding detection before an immediate firefight. 
 
 > [!TIP]  
-> Whilst Insurgents have access to many dangerous vehicles, consideration should be given to RP as this is not a death-match server.
+> Whilst Insurgents have access to a dangerous arsenal, consideration should be given to RP as this is not a death-match server.
 
 ---
 
