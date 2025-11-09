@@ -18,7 +18,7 @@
 8. No cross-faction transfers of money/gear/vehicles.
 9. Use buildable items only for valid RP—no trolling.
    - Staff reserve the right to determine misuse of buildable items.
-10. Do not use slingloaded objects as weapons and it is also fail RP for players to be inside of a slingloaded vehicle. 
+10. Do not use slingloaded objects as weapons. Players are also not allowed to be inside of a vehicle that is slingloaded. 
 
 ---
 
